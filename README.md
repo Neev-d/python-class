@@ -11,7 +11,8 @@ B.Tech. in Robotics and Artificial Intelligence, III Semester School of ECE, REV
 |--------|--------------------------------------------------------------|
 | unit-1 | Introduction to Python - data types, operators, control flow |
 | unit-2 |         Functions, modules, classes and objects              | 
-| unit-3 |            NumPy, SciPy, Pandas, Matplotlib                  |
+| unit-3 |         Inheritance, Exception handling, file handling       |
+| unit-4 |            NumPy, SciPy, Pandas, Matplotlib                  |
 | lab    |              Laboratory experiments 1 to 12                  |
 | til    |            Weekly notes on what I learned                    |
 
